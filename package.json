@@ -1,0 +1,24 @@
+{
+  "name": "node-file-http",
+  "version": "1.0.0",
+  "description": "node文件服务器",
+  "main": "file_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidaneix/node-file-http.git"
+  },
+  "keywords": [
+    "node",
+    "文件服务器",
+    "本地调试"
+  ],
+  "author": "廖雪峰",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qidaneix/node-file-http/issues"
+  },
+  "homepage": "https://github.com/qidaneix/node-file-http#readme"
+}
